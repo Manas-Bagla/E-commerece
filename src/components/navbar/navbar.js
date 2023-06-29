@@ -1,4 +1,5 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 
 const navbar = () => {
   return (
@@ -22,9 +23,11 @@ const navbar = () => {
 
 
           <div className="hidden md:flex items-center space-x-1">
-            <a href="#" className=" py-3 px-3 text-gray-500 hover:text-gray-900">Home</a>
+            <a href="/" className=" py-3 px-3 text-gray-500 hover:text-gray-900">Home</a>
             <a href="#" className=" py-3 px-3 text-gray-500 hover:text-gray-900">About Us</a>
-            <a href="#" className=" py-3 px-3 text-gray-500 hover:text-gray-900">Our Products</a>
+            <NavLink to="/products">
+            <a  className=" py-3 px-3 text-gray-500 hover:text-gray-900">Our Products</a>
+            </NavLink>
             <a href="#" className=" py-3 px-3 text-gray-500 hover:text-gray-900">Contact Us</a>
           </div>
           </div>
