@@ -65,6 +65,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+https://thegeopoliticalobserver.com/
+https://thegeopoliticalobserver.com/decolonizing-geopolitics-challenging-dominant-narratives/
+https://thegeopoliticalobserver.com/unveiling-power-structures-geopolitics-through-an-intersectional-lens/
+https://thegeopoliticalobserver.com/indian-national-congress-history/
+https://thegeopoliticalobserver.com/indian-history-timeline-from-ancient-civilization-to-modern-nation/
+https://thegeopoliticalobserver.com/history-of-indian-literature-in-english/
+
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
